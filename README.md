@@ -14,11 +14,11 @@
 | PyCON PL | [jdd.org.pl](https://pl.pycon.org/2018/) | Rawa Mazowiecka | 23-26 August | Paid | No |
 | bITconf | [bitconf.pl](http://www.bitconf.pl/) | Bydgoszcz | 14 September | Paid | Yes?No |
 | DevCrowd | [devcrowd.pl](http://devcrowd.pl/) | Szczecin | 22 September | Paid | No |
-| 4Developers Gdańsk | [4developers.org.pl](https://4developers.org.pl/) | Gdańsk | 25 September | Paid | No |
+| 4Developers Gdańsk | [4developers.org.pl](https://gdansk.4developers.org.pl/) | Gdańsk | 25 September | Paid | No |
 | JDD | [jdd.org.pl](https://jdd.org.pl/) | Kraków | 8-9 October | Paid | Yes?No |
-| 4Developers Kraków | [4developers.org.pl](https://4developers.org.pl/) | Kraków | 15 October | Paid | No |
-| 4Developers Łódź | [4developers.org.pl](https://4developers.org.pl/) | Łódź | 23 October | Paid | No |
-| 4Developers Katowice | [4developers.org.pl](https://4developers.org.pl/) | Katowice | 6 November | Paid | No |
-| 4Developers Wrocław | [4developers.org.pl](https://4developers.org.pl/) | Wrocław | 20 November | Paid | Yes?No |
+| 4Developers Kraków | [4developers.org.pl](https://krakow.4developers.org.pl/) | Kraków | 15 October | Paid | No |
+| 4Developers Łódź | [4developers.org.pl](https://lodz.4developers.org.pl/) | Łódź | 23 October | Paid | No |
+| 4Developers Katowice | [4developers.org.pl](https://katowice.4developers.org.pl/) | Katowice | 6 November | Paid | No |
+| 4Developers Wrocław | [4developers.org.pl](https://wroclaw.4developers.org.pl/) | Wrocław | 20 November | Paid | Yes?No |
 
 
